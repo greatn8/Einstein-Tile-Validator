@@ -1,0 +1,3 @@
+status: test_periodic_tile
+normalized_cells x y orientation:
+0 0 0
